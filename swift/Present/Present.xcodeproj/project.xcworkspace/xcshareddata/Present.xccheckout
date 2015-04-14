@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E9A75BB9-C6CB-4B49-8725-9E2CCCDDC270</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Present</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6C2991832B18B9709C4793B26AC03FEF3E8702F1</key>
+		<string>https://github.com/volanStudio/Assembly.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Present/Present.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6C2991832B18B9709C4793B26AC03FEF3E8702F1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/volanStudio/Assembly.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6C2991832B18B9709C4793B26AC03FEF3E8702F1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6C2991832B18B9709C4793B26AC03FEF3E8702F1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Assembly</string>
+		</dict>
+	</array>
+</dict>
+</plist>
